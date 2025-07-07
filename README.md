@@ -1,5 +1,5 @@
 # Epoch-Adaptation-Mechanism-for-Efficient-Convergence
-Federated Learning (FL) is well-suited for the In-
+**Abstract** - Federated Learning (FL) is well-suited for the In-
 ternet of Things and Cloud Computing due to its ability to
 preserve data privacy, handle large-scale deployments, work
 with resource-constrained devices, and integrate with edge com-
